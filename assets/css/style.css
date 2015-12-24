@@ -1,0 +1,9 @@
+.wp-caption {
+    position: relative;
+}
+
+.wp-caption a[data-pin-log="button_pinit"] {
+    position: absolute!important;
+    top: 10px;
+    left: 10px;
+}
