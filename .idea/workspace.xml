@@ -25,10 +25,10 @@
       <file leaf-file-name="cr-modal-img.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/cr-modal-img.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.149033">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            <state vertical-scroll-proportion="0.052332196">
+              <caret line="3" column="52" selection-start-line="3" selection-start-column="52" selection-end-line="3" selection-end-column="52" />
               <folding>
-                <marker date="1451000270626" expanded="true" signature="1941:1971" placeholder="..." />
+                <marker date="1451000951255" expanded="true" signature="1941:1971" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -384,7 +384,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1688" y="-8" width="1696" height="1066" extended-state="6" />
+    <frame x="-1688" y="-8" width="1696" height="1066" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -494,10 +494,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/cr-modal-img.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.149033">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        <state vertical-scroll-proportion="0.052332196">
+          <caret line="3" column="52" selection-start-line="3" selection-start-column="52" selection-end-line="3" selection-end-column="52" />
           <folding>
-            <marker date="1451000270626" expanded="true" signature="1941:1971" placeholder="..." />
+            <marker date="1451000951255" expanded="true" signature="1941:1971" placeholder="..." />
           </folding>
         </state>
       </provider>

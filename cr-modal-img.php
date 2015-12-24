@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Cr Modal Img
-Plugin URI: https://github.com/WP-Panda/cr_modal_img
+Plugin URI: https://github.com/WP-Panda/cr-modal-img
 Description: Плагин для вставки изображений с модальным окном, подписью и кнопкой отправить в Pinterest.
 Version: 1.0.0
 Author: WP Panda
