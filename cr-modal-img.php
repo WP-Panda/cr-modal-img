@@ -56,7 +56,7 @@ function wptuts_register_buttons( $buttons ) {
 /**
  * Кнопка картинка в текстовый редактор
  */
-function appthemes_add_quicktags() {
+function cr_fast_add_quicktags() {
     if (wp_script_is('quicktags')){
         ?>
         <script type="text/javascript">
@@ -65,7 +65,7 @@ function appthemes_add_quicktags() {
         <?php
     }
 }
-add_action( 'admin_print_footer_scripts', 'appthemes_add_quicktags' );
+add_action( 'admin_print_footer_scripts', 'cr_fast_add_quicktags' );
 
 /**
  * Подключение скриптов
